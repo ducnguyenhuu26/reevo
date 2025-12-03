@@ -111,7 +111,7 @@ icon = { class = "fab fa-github" }
 caption = "Code"
 
 [links.Slack]
-link = "https://join.slack.com/t/rl4co/shared_invite/zt-3jsdjs3ec-3KHdV3HwanL884mq_9tyYw"
+link = "https://join.slack.com/t/ai4co-community/shared_invite/zt-3jsdjs3ec-3KHdV3HwanL884mq_9tyYw"
 icon = { class = "fab fa-slack" }
 
 [teaser]

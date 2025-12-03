@@ -175,7 +175,7 @@ Supported LLM API providers and models include (note that only chat models are s
 
 If you encounter any difficulty using our code, please do not hesitate to submit an issue or directly contact us! 
 
-We are also on [Slack](https://join.slack.com/t/rl4co/shared_invite/zt-3jsdjs3ec-3KHdV3HwanL884mq_9tyYw) if you have any questions or would like to discuss ReEvo with us. We are open to collaborations and would love to hear from you 🚀
+We are also on [Slack](https://join.slack.com/t/ai4co-community/shared_invite/zt-3jsdjs3ec-3KHdV3HwanL884mq_9tyYw) if you have any questions or would like to discuss ReEvo with us. We are open to collaborations and would love to hear from you 🚀
 
 If you find our work helpful (or if you are so kind as to offer us some encouragement), please consider giving us a star, and citing our paper.
 ```bibtex
